@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="wf-dependencies" />
+      <option name="name" value="wf-dependencies" />
+      <option name="url" value="https://nex.corpdev.transunion.com/nexus/content/repositories/wf-dependencies/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="wf-repository" />
+      <option name="name" value="wf-repository" />
+      <option name="url" value="https://repository.workfusion.com/nexus/content/repositories/wf-dependencies/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="bcb-repository" />
+      <option name="name" value="bcb-repository" />
+      <option name="url" value="https://nex.corpdev.transunion.com/nexus/content/repositories/wf-machine-config-bundle/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="wf-repository" />
+      <option name="name" value="wf-repository" />
+      <option name="url" value="https://repository.workfusion.com/content/repositories/wf-dependencies/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ml-sdk" />
+      <option name="name" value="ml-sdk" />
+      <option name="url" value="https://nex.corpdev.transunion.com/nexus/content/repositories/ml-sdk/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+  </component>
+</project>
