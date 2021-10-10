@@ -27,10 +27,10 @@
         </dependency>
     </dependencies>
 
-    <distributionManagement>
+    <!--    <distributionManagement>
         <repository>
             <id>tu-repo</id>
             <url>https://artifactory.transunion.com/artifactory/jcenter-cache/</url>
         </repository>
-    </distributionManagement>
+    </distributionManagement> -->
 </project>
